@@ -55,7 +55,7 @@ Officiating and smarter tactics definitely matter, but in this case the best exp
 <p align="center"> <em>Source: NBA Stats</em> </p>
 
 Sophisticated [offensive systems](https://www.youtube.com/watch?v=dvyiAiF6L9c), replete with screens and off-ball movement, now leverage their shooters to make defenses pay for the slightest mistakes. The result is a surge in the number of players scoring on both high efficiency and high volume, particularly on threes.
-<p align="center">  <img src="/shooters_by_season_test.png" width="700" /> </p> <p align="center"> <em>Figure 3</em> </p>
+<p align="center">  <img src="/shooters_by_season.png" width="700" /> </p> <p align="center"> <em>Figure 3</em> </p>
 
 This suggests that there’s another source of competitive balance: *parity emerges when the league’s average offensive ability increases*. There isn’t as much historical precedent for this idea, since there has never been such a dramatic rise in scoring in the modern NBA before. But the current trend of league parity is in part characterized by a wider range of possible outcomes to games, with teams more often getting into high-volume shootouts that either side could win depending on how the ball happens to fall on any given night.
 
